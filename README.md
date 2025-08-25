@@ -2,7 +2,6 @@
 
 ## About me
 <br><br>
-
 - :school: I am a `Junior` at [Programming Technician](https://www.frsr.utn.edu.ar/programacion/) at [UTN Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive pentester at `Try Hack Me`, `Hack The Box`, `HackingLab`.
