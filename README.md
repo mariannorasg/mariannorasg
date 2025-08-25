@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mariano Rasgido <img src="https://media.tenor.com/YSzBJZA8P0cAAAAj/cat-black.gif" width="60"></h1>
 
-## About me
+# About me
 <br><br>
 - :school: I am a `Junior` at [Programming Technician](https://www.frsr.utn.edu.ar/programacion/) at [UTN Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/).
 - :technologist: I love using Software as a solution for every `Problem`.
