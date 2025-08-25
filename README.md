@@ -2,7 +2,6 @@
 
 ## About me
 
-<picture> <img align="right" src="https://media.tenor.com/UzYPXIhne6cAAAAj/emoji-mate-mate.gif" width = 250px></picture>
 
 <br><br>
 
